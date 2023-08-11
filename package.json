@@ -1,0 +1,38 @@
+{
+  "name": "gulp-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lorneyq",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.11",
+    "del": "^6.1.1",
+    "fancybox": "^3.0.1",
+    "gsap": "^3.11.4",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify-es": "^3.0.0",
+    "imask": "^6.4.3",
+    "inputmask": "^5.0.7",
+    "just-validate": "^4.2.0",
+    "mixitup": "^3.3.1",
+    "nunjucks": "^3.2.3",
+    "pug": "^3.0.2",
+    "sass": "^1.57.1",
+    "slick-slider": "^1.8.2",
+    "swiper": "^9.0.5"
+  },
+  "dependencies": {
+    "jquery": "^3.6.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}

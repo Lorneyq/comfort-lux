@@ -1,0 +1,20 @@
+@keyframes popup-zoom {
+    0%{
+        transform: scale(0.2);
+    }
+    50%{
+        transform: scale(1);
+    }
+    100%{
+        transform: scale(1.2);
+    }
+}
+
+@keyframes popup-fade {
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
