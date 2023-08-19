@@ -1,6 +1,6 @@
 <div align='center'><img src='https://i.imgur.com/dxoLnYa.jpg' alt='Comfort Lux'/></div>
 
-# Comfort Lux
+# Comfort Lux — Commercial Landing Page
 
 A commercial strip project that has been used on a real website. The project has animations, adaptive, no problems with uploading to real hosting, the customer was satisfied, his code is published on GitHub with his permission (you can clarify this issue with me when ordering the product).
 
