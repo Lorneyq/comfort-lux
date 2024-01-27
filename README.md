@@ -15,4 +15,4 @@ A commercial strip project that has been used on a real website. The project has
 
 👉[Live demo](http://comfort-lux.vercel.app/)
 
-![Comfort Lux demo](https://lorneyq.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcomfort-lux.e826360f.jpg&w=3840&q=75)
+![Comfort Lux demo](https://api-lorneyq.online/media/projects/comfort-lux.jpg)
